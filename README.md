@@ -1,7 +1,6 @@
 Random Training Generator
 =========================
 
-##This is a Test
 ## Testing something
 
 *This is another Test*
