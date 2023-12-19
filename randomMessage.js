@@ -30,4 +30,4 @@ const randomMuscle = (muscle) =>{
     return muscleGroup[randomNumber()]
 }
 
-console.log(randomMuscle())
+console.log(randomMessage(randomNumber()) + randomMuscle() + '.')
